@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on Govno Govennoe
-- 📫 How to reach me: levm370@mail.ru / https://t.me/@slaboto4nik_ops
+- 📫 How to reach me: levm370@proton.me / https://t.me/@slaboto4nik_ops
 - 😄 Pronouns: he/him/fuckingc++programmer
 - ⚡ Fun fact: the rise of the machines is closer than you think
 
